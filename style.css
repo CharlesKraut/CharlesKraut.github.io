@@ -1,0 +1,42 @@
+body {
+	background-color: rgb(220,220,220);		
+	font-family: Calibri, Arial, Verdana, sans-serif;
+	img.align-left 
+		float: left;
+		margin-right: 10px;			
+}
+	#page {
+		max-width: 800px;
+		min-width: 500px;
+	}			
+	p {
+		text-align: leftwards;
+		width: 800px;
+		padding: 15px;
+	}
+
+h1 {
+	color: hsla(239, 100%, 23%, 1);text-align: leftwards;
+		width: 800px;
+		padding: 15px;
+}
+
+h2 {
+	color: hsla(200, 100%, 23%, 1);text-align: leftwards;
+		width: 800px;
+		padding: 15px;
+}
+h3 {
+	background-color: hsla(150, 100%, 23%, 1);
+		color: white;
+		color: hsla(360, 100%, 100%, 1);
+		text-align: leftwards;
+		width: 800px;
+		padding: 15px;
+li 	{
+	text-align: leftwards;
+		width: 800px;
+		margin-left: 10px;
+		padding: 30px;
+}
+	
