@@ -1,7 +1,6 @@
 body {
 	background-color: rgb(220,220,220);		
-	font-family: Calibri, Arial, Verdana, sans-serif;
-	img.align-left 
+	font-family: Calibri, Arial, Verdana, sans-serif; 
 		float: left;
 		margin-right: 10px;			
 }
@@ -36,7 +35,7 @@ h3 {
 li 	{
 	text-align: leftwards;
 		width: 800px;
-		margin-left: 10px;
+		text-align: leftwards;
 		padding: 30px;
 }
 	
