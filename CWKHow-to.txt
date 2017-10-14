@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CWKHow-to</title>
+	<title> Charles's CSC 223 How-to Skydive Assignment</title>
+	<link href="CWKPHow-to.css" type="text/css"
+		rel="stylesheet" />
