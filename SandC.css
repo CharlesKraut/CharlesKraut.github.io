@@ -1,0 +1,117 @@
+@import url("reset.css");
+.SandCLandingPage {
+	display: inline-block;
+	border: 1px solid #00000f;
+	font-family: "Americana", Garamond, Times New Roman, serif;
+}
+	
+aside {
+	width: 250px;
+	margin: 8px;
+	float: left;
+	position:absolute; left: 720px; top: 101px; width:160px">
+}
+
+#box-holder {
+	width: 680px;
+	clear: both;
+	padding: 10px;
+	margin: 10px;
+	border: 1px solid #00000f;
+	background-color: #f8f0ce;
+}
+
+#box-aside {
+	width: 280px;
+	margin: 8px;
+	float: right;
+	position:absolute; right: 800px; top: 101px; width:160px">
+}
+	
+.inner-box {
+	display: inline-block;
+	text-align: center;
+	vertical-align: top;
+	width: 320px;
+	height: 520px;
+	margin: 8px;
+}
+
+.header {
+	text-align: center;
+	font-family: "Americana", Garamond, Times New Roman, serif;
+	font-weight: bold;
+	width: 960px;
+	height: 100px;
+	margin: 10px;
+	background-color: hsl(150,100%,13%);
+}
+
+.header h1 {
+	font-size:64px;
+	font-style: bold;
+	color: silver;
+}
+
+.header h2 {
+	font-size: 32px;
+	font-style: bold;
+	color: silver;
+}
+
+h3 {
+	text-align: center;
+	font-family: "Americana", Garamond, Times New Roman, serif;
+	font-size: 20px;
+	font-style: bold;
+	color: gray;
+	margin-top: 8px;
+	margin-bottom: 8px;
+}
+
+h4 {
+	text-align: center;
+	font-size: 18px;
+	font-style: bold;
+	color: gray;
+	margin-top: 8px;
+	margin-bottom: 8px;
+}
+
+h5 {
+	text-align: center;
+	font-size: 18px;
+	font-style: italic;
+	color: gray;
+	margin-top: 8px;
+	margin-bottom: 8px;
+}
+
+p {
+	font-family: "Americana", Garamond, Times New Roman, serif;
+	text-align: left;
+	font-size: 16px;
+	color: black;
+	margin-top: 2px;
+	margin-bottom: 2px;
+}
+	
+img.portrait {
+	width: 150px;
+	height: 180px;
+	text-align: center;
+}
+img.landscape {
+	width: 250px;
+	height: 200px;
+	align: left;
+}
+img.currency {
+	width: 270px;
+	height: 200px;
+	align: right;
+}
+
+<link rel="stylesheet" type="text/css"
+	media "screen and (max-width: 480px)"
+	href="480.css" />

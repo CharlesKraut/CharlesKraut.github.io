@@ -1,0 +1,11 @@
+@media screen and (max-width: 480px) {
+	aside,
+	#box-aside,
+	.header 
+	.inner-box 
+	.img.landscape
+	.img.currency {
+		float: none;
+		width: auto;
+	}
+}	
